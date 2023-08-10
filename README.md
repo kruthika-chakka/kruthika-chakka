@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruthika-chakka
 - 👀 I’m interested in artificial intelligence, machine learning, big data, full stack development 
-- 🌱 I’m currently learning machine learning and big data in my master's course majoring in computer science at University of Texas at Dallas
+- 🌱 I’ve worked on machine learning and big data in my master's course majoring in computer science at University of Texas at Dallas
 - 💞️ I’m looking to collaborate on any projects that align with my interests above
 - 📫 How to reach me @ kruthika.937@gmail.com
 
